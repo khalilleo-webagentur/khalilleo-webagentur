@@ -1,4 +1,4 @@
-# ![khalilleo-webagentur](https://khalilleo.com/static/img/favicon/favicon-32x32.png) khalilleo-webagentur
+# ![khalilleo-webagentur](https://www.khalilleo.com/static/img/Logo_32x32.png) khalilleo-webagentur
 
 **Wir sind Ihre zertifizierte Webagentur für Webdesign, Web‑Entwicklung und SEO mit über 200 aktiven Kunden in Deutschland, Österreich und der Schweiz.
 Mit modernster Technik, Kreativität und fundiertem Know‑how verhelfen wir Ihnen zu einer leistungsstarken Online‑Präsenz — sichtbar, nutzerfreundlich und verkaufsorientiert.**
